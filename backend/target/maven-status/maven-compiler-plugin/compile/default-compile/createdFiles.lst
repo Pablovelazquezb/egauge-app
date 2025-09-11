@@ -1,2 +1,15 @@
+com/egauge/entity/DatosEgauge.class
 com/egauge/BackendApplication.class
+com/egauge/controller/ClienteController$EstadisticasResponse.class
+com/egauge/entity/DatosEgauge$1.class
+com/egauge/config/CorsConfig.class
+com/egauge/repository/DatosEgaugeRepository.class
+com/egauge/entity/Cliente.class
+com/egauge/repository/ClienteRepository.class
+com/egauge/util/TarifaClassifier.class
+com/egauge/service/DescargaService.class
+com/egauge/config/RestConfig.class
+com/egauge/controller/ClienteController.class
+com/egauge/service/ClienteService.class
+com/egauge/service/DescargaService$DescargaResultado.class
 com/egauge/HelloController.class

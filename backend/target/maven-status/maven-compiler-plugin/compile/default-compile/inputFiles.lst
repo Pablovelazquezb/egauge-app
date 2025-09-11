@@ -1,7 +1,15 @@
-/Users/pablovelazquezbremont/egauge-app/backend/src/main/java/com/egauge/controller/ClienteController.java
-/Users/pablovelazquezbremont/egauge-app/backend/src/main/java/com/egauge/entity/Cliente.java
+/Users/pablovelazquezbremont/egauge-app/backend/src/main/java/com/egauge/controller/DescargaController.java
 /Users/pablovelazquezbremont/egauge-app/backend/src/main/java/com/egauge/BackendApplication.java
 /Users/pablovelazquezbremont/egauge-app/backend/src/main/java/com/egauge/service/ClienteService.java
 /Users/pablovelazquezbremont/egauge-app/backend/src/main/java/com/egauge/HelloController.java
+/Users/pablovelazquezbremont/egauge-app/backend/src/main/java/com/egauge/controller/ClienteController.java
+/Users/pablovelazquezbremont/egauge-app/backend/src/main/java/com/egauge/service/DescargaService.java
+/Users/pablovelazquezbremont/egauge-app/backend/src/main/java/com/egauge/entity/Cliente.java
+/Users/pablovelazquezbremont/egauge-app/backend/src/main/java/com/egauge/util/TarifaClassifier.java
+/Users/pablovelazquezbremont/egauge-app/backend/src/main/java/com/egauge/repository/DatosEgaugeRepository.java
+/Users/pablovelazquezbremont/egauge-app/backend/src/main/java/com/egauge/entity/DatosEgauge.java
+/Users/pablovelazquezbremont/egauge-app/backend/src/main/java/com/egauge/service/CalculadoraCFEService.java
 /Users/pablovelazquezbremont/egauge-app/backend/src/main/java/com/egauge/config/CorsConfig.java
+/Users/pablovelazquezbremont/egauge-app/backend/src/main/java/com/egauge/config/RestConfig.java
 /Users/pablovelazquezbremont/egauge-app/backend/src/main/java/com/egauge/repository/ClienteRepository.java
+/Users/pablovelazquezbremont/egauge-app/backend/src/main/java/com/egauge/controller/CalculadoraCFEController.java
